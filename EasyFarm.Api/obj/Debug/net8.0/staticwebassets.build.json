@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cURmTBDFjleGKazg/QiH7cJ8it3zwl1DO89qbQJexVU=",
+  "Source": "EasyFarm.Api",
+  "BasePath": "_content/EasyFarm.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
